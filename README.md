@@ -9,12 +9,12 @@ Actividad 4.1 Diplomado: Competencias Profesionales Para Ingenieros
 
 # Profesor
 
--Gustavo Martínez
--Edgardo Paolini
+- Gustavo Martínez
+- Edgardo Paolini
 
 # Descripción de la actividad
 
-    Los estudiantes deberán ser capaces de presentar un repositorio Github con un proyecto HTML o de cualquier lenguaje de programación con el Cvitae de cada uno de los integrantes del grupo, la idea es que realicen un par de commits y sea un proyecto público.
+Los estudiantes deberán ser capaces de presentar un repositorio Github con un proyecto HTML o de cualquier lenguaje de programación con el Cvitae de cada uno de los integrantes del grupo, la idea es que realicen un par de commits y sea un proyecto público.
 
 # Comandos utilizados
 
