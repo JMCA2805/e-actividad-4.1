@@ -26,7 +26,7 @@ Paso 1
 
 - Haz un clon del repositorio
 
-      git clone https://github.com/JMCA2805/MyBox-FrontEnd.git
+      git clone https://github.com/JMCA2805/e-actividad-4.1.git
 
   Paso 2
 
